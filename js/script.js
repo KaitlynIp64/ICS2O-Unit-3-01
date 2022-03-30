@@ -6,7 +6,7 @@
 
 'use strict'
 /**
- * This function calculates perimeter of triangle.
+ * This function calculates area of trapezoid.
  */
 function calculate () {
   // input
