@@ -10,9 +10,9 @@
  */
 function calculate () {
   // input
-  const a base = parseInt(document.getElementById(' a-base-of-triangle').value)
-  const b base = parseInt(document.getElementById('b-base-of-triangle').value)
-  const height = parseInt(document.getElementById('height-of-triangle').value)
+  const a base = parseInt(document.getElementById(' a-base').value)
+  const b base = parseInt(document.getElementById('b-base').value)
+  const height = parseInt(document.getElementById('height').value)
 
   // process
   const area = height * [(a base + b base) / 2]
