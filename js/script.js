@@ -18,5 +18,5 @@ function calculate () {
   const area = height * [(a base + b base) / 2]
 
   // output
-  document.getElementById('area').innerHTML = 'Area is: ' + perimeter.toFixed(2) + ' mm'
+  document.getElementById('area').innerHTML = 'Area is: ' + area.toFixed(2) + ' mm'
 }
